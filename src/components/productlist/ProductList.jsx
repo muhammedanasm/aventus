@@ -3,6 +3,7 @@ import "./ProductList.css";
 
 const ProductList = ({ items }) => {
   const { filter, setFilter, filteredData } = useFilter(items);
+  console.log("filteredData", filteredData);
 
   return (
     <div className="product-list">
