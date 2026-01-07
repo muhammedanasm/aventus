@@ -74,7 +74,7 @@ export const uiConfig = {
           type: "PROFILE_CARD",
           data: {
             name: "Muhammed Anas",
-            email: "muhammedanas@example.com",
+            email: "anasmanasm459@gmail.com",
             bio: "React Developer based in Kerala.",
             avatar: userAvatar,
           },
